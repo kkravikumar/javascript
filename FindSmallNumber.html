@@ -7,17 +7,17 @@
 <html>
 <head>
 	<script>
-		let input = { 5, 29, - 7, 84, 91, -3, 13};
-
+		let input = [ 5, 29, -7, 84, 91, -3, 13 ];
 		let small = input[0];
 
 		for (let i = 0; i < input.length; i++) {
-			if (small < input[i]) {
+			if (small > input[i]) {
 				small = input[i];
 			}
 		}
 
 		console.log("Small number from the given list :" + small);
+		alert("Small number from the list :" + small);
 
 	</script>
 </head>

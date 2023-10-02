@@ -1,0 +1,50 @@
+
+1. Write a program to find smallest number in the list? 
+	Ex. Input : {5, 29, -7, 84, 91, -3, 13} 
+		Result: -7 
+
+2. Write a program to find a string is palindrome? 
+	Ex. 
+		Malayalam Result: true 
+		Mampalam  Result: false 
+	
+3. Write a program to sort in assending order in an array?
+    Ex. Input : {5, 29, -7, 84, 91, -3, 13} 
+		Result : {-7, -3, 5, 13, 29, 84, 91} 
+		
+4. Write a program to find a given year is leap year? 
+	Ex. Input : 2023 Output: false 
+				2024 Output: true
+	
+5. Write a program to find out how many words in the given paragraph? 
+	Input: "Get your writing process off to a great start by generating fully coherent, compelling paragraphs"
+	Output: 15
+	
+6. Write a program to separate number and string into separate array. 
+	Input: ['Ranga', 5, 'Ramya', -8, 99, 'Ravi', 'Keerthi', 44]
+	output: ['Ranga', 'Ramya', 'Ravi', 'Keerthi'] and [5,-8, 99,44]
+
+7. Write a program to find sum of digits 
+	Input: 45678 
+	Output: 4+5+6+7+8 = 30
+	
+8. Write any JavaScript Program to Pass a Function as Parameter. 
+
+9. Write a program to find age from date of birth. 
+	Input: "20-07-1989" 
+	Output : Age=34 Years   
+
+10. Write a program to find an given multi dimentional array is orthogonal or not?
+		Input:  1 0 0
+				0 1 0
+				0 0 1
+		Output: Yes
+		Given Matrix is an orthogonal matrix. When
+		we multiply it with its transpose, we get
+		identity matrix.
+
+		Input:  1 2 3
+				4 5 6
+				7 8 9
+		Output: No
+		Given Matrix Is Not An Orthogonal Matrix

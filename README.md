@@ -1,2 +1,6 @@
-# javascript
-Sample programs in Javascript
+# Javascript
+Sample programs in Javascript 
+
+
+# Tutorial used for learning Javascript 
+
